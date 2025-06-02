@@ -49,7 +49,6 @@ Want to collaborate, ask questions, or just chat about open tools over a virtual
 
 - 🍻 [Discord](https://discord.gg/userbrew) (placeholder)
 - 🧵 [Discussions](https://github.com/UserBrew/.github/discussions)
-- 🐦 [Twitter / X](https://twitter.com/userbrew) (if applicable)
 
 ---
 
