@@ -20,7 +20,7 @@ UserBrew is a tech-driven organization crafting tools and services that focus on
 
 | Project      | Description                          | Stack          |
 |--------------|--------------------------------------|----------------|
-| [`breviago`](https://github.com/UserBrew/breviago) | Abbreviation manager for fast docs | Go, React, BetterAuth, Tanstack |
+| [`breviago`](https://github.com/UserBrew/breviago) | A fast Abbreviation manager | Go, React, BetterAuth, Tanstack |
 
 > 💡 More projects coming soon — stay tuned or contribute!
 
