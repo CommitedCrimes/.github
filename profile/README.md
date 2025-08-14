@@ -1,20 +1,26 @@
-# ☕ UserBrew
+# Commited Crimes
 
-**Brewed tools for modern developers.**  
-We aim to create open-source software that’s minimal, secure, and built for sharing — with just the right amount of flavor.
+Welcome to the Commited Crimes organization! Our mission is simple: to create a bunch of fun projects and tools, just for the sake of building things. Our commit habits are so questionable, it should be a crime itself—but rest assured, it's all in good fun!
+
+## What We Do
+
+- We build tools for everyone, and also no-one.
+- We embrace creativity, experimentation, and a bit of chaos in our development process.
+- Our projects are meant to be enjoyable, sometimes useful, and always open to contribution.
+
+## Why "Commited Crimes"?
+
+We chose the name because our commit practices are hilariously bad—so much so, it feels criminal. But that's part of the fun! We don't take ourselves too seriously, and we encourage others to do the same.
+
+## Goals
+
+- Develop and share quirky, interesting projects.
+- Foster an open, welcoming community for all kinds of developers.
+- Never let perfectionism get in the way of shipping something cool.
 
 ---
 
-## 🍺 What We Do
-
-UserBrew is a tech-driven organization crafting tools and services that focus on:
-
-- 🧠 **Brevity-first design** — Simple tools that do one thing well  
-- 🔐 **Secure authentication** — Auth solutions with modern best practices (OAuth, JWT, BetterAuth, etc.)  
-- ⚙️ **Composable stacks** — Built with Go, React, and  
-- 🧪 **Open source by default** — Every project lives and grows in public
-
----
+**P.S.** We never create anything intended for actual crime. All our projects are strictly for fun and learning!
 
 ## 🔧 Projects
 
@@ -24,39 +30,18 @@ UserBrew is a tech-driven organization crafting tools and services that focus on
 
 > 💡 More projects coming soon — stay tuned or contribute!
 
----
-
-## 📦 Tech Stack
-
-- 🟨 Go / Go modules
-- ⚛️ React / TypeScript
-- 🌐 TanStack (Query, Router, Table)
-- 🔐 BetterAuth
-- 🧰 GitHub Actions / Open API / TurboRepo
-
----
-
-## 🤝 Contributing
+## Contributing
 
 We love pull requests, issues, and discussions.  
 Check out our [contributing guide](https://github.com/UserBrew/.github/blob/main/CONTRIBUTING.md) to get started.
 
 ---
 
-## 🫱 Meet Us at the Pub
+## License
 
-Want to collaborate, ask questions, or just chat about open tools over a virtual brew?
-
-- 🍻 [Discord](https://discord.gg/userbrew) (placeholder)
-- 🧵 [Discussions](https://github.com/UserBrew/.github/discussions)
-
----
-
-## 📜 License
-
-All our projects are MIT-licensed unless noted otherwise.  
+All our projects are or will eventually become MIT-licensed unless noted otherwise.  
 Open, forkable, remixable.
 
 ---
 
-Brewed with ❤️ by the UserBrew team.
+Committed crimefully with ❤️ by the CommitedCrimes team.
