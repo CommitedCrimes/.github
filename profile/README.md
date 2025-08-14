@@ -26,9 +26,10 @@ We chose the name because our commit practices are hilariously bad—so much so,
 
 | Project      | Description                          | Stack          |
 |--------------|--------------------------------------|----------------|
-| [`breviago`](https://github.com/UserBrew/breviago) | A fast Abbreviation manager | Go, React, BetterAuth, Tanstack |
+| [`the-scoreboard`](https://github.com/CommitedCrimes/CommitedCrimes/the-scoreboard) | A fast Abbreviation manager | Go, React, BetterAuth, Tanstack |
 
-> 💡 More projects coming soon — stay tuned or contribute!
+> More projects coming soon — stay tuned or contribute!
+> If the project is unavailable, it is still being initialized
 
 ## Contributing
 
